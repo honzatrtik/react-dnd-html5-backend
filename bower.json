@@ -1,6 +1,6 @@
 {
   "name": "react-dnd-html5-backend",
   "version": "2.0.0",
-  "main": "dist/ReactDnDHTML5Backend.min.js",
+  "main": "./dist/ReactDnDHTML5Backend.min.js",
   "ignore": []
 }
